@@ -1,0 +1,2 @@
+1,immune,vaccinated
+2,sick,vaccinated
