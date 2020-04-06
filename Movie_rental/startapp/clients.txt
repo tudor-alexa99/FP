@@ -1,0 +1,10 @@
+George,10
+Sabina,11
+Martin,14
+Erika,15
+Patricia,16
+Miguel,17
+Narcos,18
+Enrique,19
+Iziquel,20
+Josh,13
